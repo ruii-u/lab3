@@ -4,7 +4,8 @@ body{
 }
 
 h1{
-    font-size: 110px;
+    text-align: center;
+    font-size: 80px;
     color: #f2f6e2;
 }
 
@@ -15,18 +16,17 @@ h2,h3{
 
 
 p{
-    font-size: 25px;
+    font-size: 20px;
     color: #eff5f8;
 }
 
 .buttons {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 button{
     padding: 10px 20px;
-
     font-size: 17px;
     font-weight: bold;
     cursor: pointer;
