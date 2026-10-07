@@ -8,11 +8,42 @@ h1{
     color: #f2f6e2;
 }
 
+h2,h3{
+    color: #4bafd6;
+
+}
+
+
+p{
+    font-size: 25px;
+    color: #eff5f8;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
 button{
     padding: 10px 20px;
+
     font-size: 17px;
+    font-weight: bold;
     cursor: pointer;
     background-color: #4bafd6;
     color: rgb(241, 241, 246);
+}
 
+
+.picture {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.picture img {
+    height: auto;
+    width: 105%;
 }
